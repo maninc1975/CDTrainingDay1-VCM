@@ -1,0 +1,7 @@
+I also know something about GIT and proxies:
+set http_proxy=http://mnsproxy.mn-services.nl:8080
+set https_proxy=http://mnsproxy.mn-services.nl:8080
+
+How to clone repo:
+git clone https://github.com/maninc1975/CDTrainingDay1-VCM.git
+
