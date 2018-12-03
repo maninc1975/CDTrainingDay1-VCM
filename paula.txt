@@ -4,6 +4,8 @@ Hier wat commentaar van Pierre
 =======
 Character Markus is a trainer and standing in front of a group of enthousiastic people. 
 
-Charcater Raymond knows something about BI!
-Hier wat commentaar van Pieter-Jan
+Charcater Raymond knows something about BI!:
+
+PKG :Wat doen we hier eigenlijk?
+Cursus Jenkins?
 >>>>>>> fc8b6e9b7e44ea9eb4cb12c4d729e47fdc66fb51
